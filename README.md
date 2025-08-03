@@ -17,7 +17,7 @@
 
 - 💬 My MBTI is INXJ (INFJ & INTJ)
 
-- 💬 Ask me about **Java (Mobile), Python, WhatsApp Bot (Baileys)**
+- ❓ Ask me about **Java (Mobile), Python, WhatsApp Bot (Baileys)**
 
 - 📫 How to reach me **alfisyahri.aac@gmail.com**
 
