@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syxhri&show_icons=true&theme=onedark&locale=id&layout=compact" alt="syxhri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syxhri&show_icons=true&theme=onedark&locale=en" alt="syxhri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syxhri&show_icons=true&theme=onedark&locale=id" alt="syxhri" /></p>
 
 
