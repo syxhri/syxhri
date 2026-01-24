@@ -3,8 +3,6 @@
 Software Engineering student at Gorontalo State University.  
 I build practical software, mostly backend-oriented, and I like understanding how systems work under the hood.
 
-This repository is my **GitHub profile README** — a summary of what I do, what I’m learning, and what I’m building. Nothing exaggerated, just real work.
-
 ---
 
 ## 🚀 What I'm working on
@@ -25,6 +23,7 @@ This repository is my **GitHub profile README** — a summary of what I do, what
 
 - Golang (backend & services)
 - TypeScript (cleaner JS, better DX)
+- Kotlin (Mobile development)
 - React & modern frontend patterns
 - Databases (MySQL, PostgreSQL)
 - API design, auth flow, and rate limiting
