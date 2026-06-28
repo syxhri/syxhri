@@ -7,7 +7,7 @@ I build practical software, mostly backend-oriented, and I like understanding ho
 
 ## 🚀 What I'm working on
 
-- **Manhwa Analytics Platform**
+- **Manhwa Analytics Platform**  
   A lightweight data engineering project that extracts manhwa data, transforms it, stores it in SQLite, and visualizes it using Streamlit.
 
 - **Jokiwi**  
