@@ -7,6 +7,9 @@ I build practical software, mostly backend-oriented, and I like understanding ho
 
 ## 🚀 What I'm working on
 
+- **Manhwa Analytics Platform**
+  A lightweight data engineering project that extracts manhwa data, transforms it, stores it in SQLite, and visualizes it using Streamlit.
+
 - **Jokiwi**  
   A simple task / joki manager web app built to manage real-world “joki tugas” workflows.  
   Focused on task tracking, client–worker separation, pricing, status management, and basic coordination flow in one place.
@@ -21,6 +24,7 @@ I build practical software, mostly backend-oriented, and I like understanding ho
 
 ## 🧠 Currently learning
 
+- Python (Data Engineering)
 - Golang (backend & services)
 - TypeScript (cleaner JS, better DX)
 - Kotlin (Mobile development)
@@ -33,7 +37,7 @@ I build practical software, mostly backend-oriented, and I like understanding ho
 ## 🛠 Tech & tools I use
 
 - Languages:  
-  Java, Python, JavaScript, TypeScript
+  Python, Java, JavaScript, TypeScript
 
 - Backend & Web:  
   Node.js, Next.js, Express-style APIs, FastAPI
@@ -64,4 +68,4 @@ If you have something interesting, feel free to reach out.
 
 ---
 
-> Still learning. Still building. No buzzwords, just progress.
+> Still learning. Still crawling. Still building.
